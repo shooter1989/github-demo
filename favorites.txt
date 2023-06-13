@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 1. Potato
 2. Sausage
 3. Milk
 4. Beer
+=======
+1. Lord of the Ring
+2. Coach Karter
+3. Matrix
+4. Sopranos
+>>>>>>> movies
