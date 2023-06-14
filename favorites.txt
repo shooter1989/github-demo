@@ -7,3 +7,7 @@
 2. Coach Karter
 3. Matrix
 4. Sopranos
+
+1. Python
+2. HTML
+3. CSS
